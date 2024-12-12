@@ -1,0 +1,26 @@
+{
+    "users": [
+      { "id": "1", "name": "Alexandre Timmermans", "role": "Employee", "avatar": "https://avatar.iran.liara.run/public/78" },
+      { "id": "2", "name": "Eloise Leroy", "role": "Manager", "avatar": "https://avatar.iran.liara.run/public/22" },
+      { "id": "3", "name": "Samuel Hayes", "role": "Technician", "avatar": "https://avatar.iran.liara.run/public/7" },
+      { "id": "4", "name": "Maria Gonzales", "role": "Supervisor", "avatar": "https://avatar.iran.liara.run/public/54" }
+    ],
+    "tasks": [
+      { "id": "1", "title": "Shift 1", "startTime": "7:00", "endTime": "15:00", "tag": "Morning", "userId": "1", "day": "2024-12-11" },
+      { "id": "2", "title": "Shift 2", "startTime": "15:00", "endTime": "23:00", "tag": "Afternoon", "userId": "1", "day": "2024-12-11" },
+      { "id": "3", "title": "Repair Task", "startTime": "10:00", "endTime": "12:00", "tag": "Repair", "userId": "3", "day": "2024-12-11" },
+      { "id": "4", "title": "Maintenance", "startTime": "14:00", "endTime": "16:00", "tag": "Maintenance", "userId": "3", "day": "2024-12-12" },
+      { "id": "5", "title": "Inspection", "startTime": "9:00", "endTime": "11:00", "tag": "Inspection", "userId": "4", "day": "2024-12-12" },
+      { "id": "6", "title": "Evening Check", "startTime": "18:00", "endTime": "20:00", "tag": "Evening", "userId": "4", "day": "2024-12-13" },
+      { "id": "7", "title": "Team Meeting", "startTime": "11:00", "endTime": "12:30", "tag": "Meeting", "userId": "2", "day": "2024-12-13" },
+      { "id": "8", "title": "Client Call", "startTime": "16:00", "endTime": "17:00", "tag": "Call", "userId": "1", "day": "2024-12-14" },
+      { "id": "9", "title": "Overlap Task", "startTime": "14:00", "endTime": "16:00", "tag": "Overlap", "userId": "1", "day": "2024-12-15" },
+      { "id": "10", "title": "Morning Prep", "startTime": "6:00", "endTime": "9:00", "tag": "Morning", "userId": "2", "day": "2024-12-15" },
+      { "id": "11", "title": "System Update", "startTime": "10:00", "endTime": "11:00", "tag": "Update", "userId": "4", "day": "2024-12-15" },
+      { "id": "12", "title": "Weekly Review", "startTime": "10:00", "endTime": "12:00", "tag": "Review", "userId": "3", "day": "2024-12-16" },
+      { "id": "13", "title": "Evening Roster", "startTime": "17:30", "endTime": "19:30", "tag": "Evening", "userId": "2", "day": "2024-12-16" },
+      { "id": "14", "title": "Morning Shift", "startTime": "7:00", "endTime": "14:00", "tag": "Morning", "userId": "4", "day": "2024-12-17" },
+      { "id": "15", "title": "Call with Vendor", "startTime": "16:30", "endTime": "17:30", "tag": "Call", "userId": "3", "day": "2024-12-18" }
+    ]
+  }
+  
